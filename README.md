@@ -1,6 +1,4 @@
 # WGRIB 2
-
-
 Provides functionality for interacting with, reading, writing, and
 manipulating grib2 files, with a CMake build.
 
